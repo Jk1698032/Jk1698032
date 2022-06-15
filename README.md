@@ -5,6 +5,4 @@
 - 📫 How to reach me ...
 
 <!---
-Jk1698032/Jk1698032 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Jk1698032/Jk1698032 <a href="https://dontkillmyapp.com/xiaomi"><img id="badge-shareable" width="306px" src="https://dontkillmyapp.com/badge/assets/js/main.js3.svg"></a>
